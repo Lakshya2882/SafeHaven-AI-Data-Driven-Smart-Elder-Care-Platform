@@ -15,6 +15,13 @@
 - `JupyterNotebook02.html`: Exploratory data analysis and visualizations
 - `JupyterNotebook03.html`: Regression modeling and insights
 
+## 📂 Datasets
+
+- `data/Grouped_Age_Population_2005_2024.csv`: Population distribution by age group (2005–2024).
+- `data/Pivot table02.csv`: Aggregated data used for Power BI dashboards and predictive modeling.
+
+> 📌 Source: Statistics Canada (https://www.statcan.gc.ca)
+
 ## 💡 Tools Used
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 - Jupyter Notebook
