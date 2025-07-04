@@ -22,6 +22,12 @@
 
 > 📌 Source: Statistics Canada (https://www.statcan.gc.ca)
 
+## 📈 Power BI Dashboard
+
+- `Final02.pbix`: Interactive dashboard showing population trends, workforce planning, revenue projections, and AI-driven care planning for Canadian long-term care homes.
+
+> 🔎 To view: Open in [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
+
 ## 💡 Tools Used
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 - Jupyter Notebook
