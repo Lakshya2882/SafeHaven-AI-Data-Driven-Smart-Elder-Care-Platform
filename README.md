@@ -34,3 +34,8 @@
 - Power BI
 - Excel (Financial Modeling)
 
+## 🛡️ License & Copyright
+
+This project and its contents are © 2025 Lakshya Patel.  
+This repository is made available for academic and portfolio purposes only.  
+**No commercial use, redistribution, or modification is permitted without written consent.**
